@@ -3,8 +3,6 @@
 
 A PostgreSQL analytics pipeline + Power BI dashboard that identifies dormant customers, quantifies revenue at risk, and prioritizes high-value accounts for re-engagement.
 
-Show Image Show Image Show Image Show Image
-
 📁 Table of Contents
 Overview
 Business Problem
